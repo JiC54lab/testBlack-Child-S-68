@@ -1,14 +1,14 @@
 class script(object):
-    START_TXT = """HELLO {},
-MY NAME IS <a href=https://t.me/{}>{}</a>,I PROVIDE MOVIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍"""
+    START_TXT = """<b>HELLO {},
+MY NAME IS <a href=https://t.me/{}>{}</a>,I PROVIDE MOVIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍</b>"""
     HELP_TXT = """{},
-<B>HERE IS THE HELP FOR MY COMMANDS"""
+<b>HERE IS THE HELP FOR MY COMMANDS</b>"""
     ABOUT_TXT = """<b>♠️ MY NAME: {}</b>
-<b>♣️ OWNED BY:</b> <a href=https://t.me/JiC54_SERIES_Bot>Click Here!/a>
+<b>♣️ OWNED BY:</b> <a href=https://t.me/JiC54_SERIES_Bot>Click Here!</a>
 <b>♣️ LANGUAGE:</b> 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 <b>♣️ DATABASE:</b> 𝙼𝙾𝙽𝙶𝙾
 <b>♣️ BOT SERVER:</b> 𝙷𝙴𝚁𝙾𝙺𝚄
-<b>♣️ 𝙱OT VERSION:</b> <code>4.1.3</code>"""
+<b>♣️ 𝙱OT VERSION:</b> <code>4.1.3</code></b>"""
     SOURCE_TXT = """<b>NOTE:</b> 
 - Source - <a href=https://t.me/JiC54_SERIES_Bot>Click Here!</a>  
 
