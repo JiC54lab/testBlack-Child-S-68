@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="JIC54 movies and series new logo.jpg" alt="JIC54 movies and series">
+  <img src="assets/JIC54 movies and series new logo.jpg" alt="JIC54 movies and series">
 </p>
 <h1 align="center">
   <b>Series JiC54</b>
 </h1>
 
-https://github.com/JiC54/Black-Child
+
 [![Stars](https://img.shields.io/github/stars/JiC54/Black-Child?style=flat-square&color=yellow)](https://github.com/JiC54/Black-Childstargazers)
 [![Forks](https://img.shields.io/github/forks/JiC54/Black-Child?style=flat-square&color=orange)](https://github.com/JiC54/Black-Child/fork)
 [![Size](https://img.shields.io/github/repo-size/JiC54/Black-Child?style=flat-square&color=green)](https://github.com/JiC54/Black-Child/)   
