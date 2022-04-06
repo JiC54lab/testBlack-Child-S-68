@@ -109,10 +109,6 @@ This module only works for my admins
 ★ USED RAM: <code>{}</code> 
 ★ FREE RAM: <code>{}</code>
 ★ TOTAL RAM: <code>512MB</code>"""
-     STATUS_TXT2 = """★ TOTAL FILES <code>{}000</code>
-★ USED RAM: <code>{}</code> 
-★ FREE RAM: <code>{}</code>
-★ TOTAL RAM: <code>512MB</code>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
@@ -122,3 +118,8 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 """
+STATUS_TTXXTT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
+★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
+★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code>
+★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code>"""
