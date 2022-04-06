@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>HELLO {},
-MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE MOVIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍</b>"""
+MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE SERIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍</b>"""
     HELP_TXT = """{},
 <b>HERE IS THE HELP FOR MY COMMANDS</b>"""
     ABOUT_TXT = """<b>♠️ MY NAME: {}</b>
@@ -8,12 +8,28 @@ MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE MOVIES. JUST ADD ME TO YOUR
 <b>♣️ LANGUAGE:</b> 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 <b>♣️ DATABASE:</b> 𝙼𝙾𝙽𝙶𝙾
 <b>♣️ BOT SERVER:</b> 𝙷𝙴𝚁𝙾𝙺𝚄
-<b>♣️ 𝙱OT VERSION:</b> <code>4.1.3</code></b>"""
-    SOURCE_TXT = """<b>NOTE:</b> 
-- Source - <a href=https://t.me/JiC54_SERIES_Bot>Click Here!</a>  
+<b>♣️ 𝙱OT VERSION:</b> <code>4.1.4</code></b>"""
+    SOURCE_TXT = """<b>JiC54 CHANNELS:</b> 
+    
+[Movies and Series 2022](https://t.me/+H_6j47erCp44YjY0)
+[House of Movies](https://t.me/+uQBJ5JaaLpgyMWI0)
+[Dax songs](https://t.me/+EHBqUrMHnglmZWY8)
+[DC Series](https://t.me/+8eC2YwzHZtUwZDg0)
+[Marvel Movies](https://t.me/+GvVfP9p-YAsyMTY0)
+[African Movies](https://t.me/+6QrMOpOVtKAxOGQ0)
+[WWE wrestling](https://t.me/+LhZuWiqE21NiYzY0)
 
-<b>DEVS:</b>
-- <a href=https://t.me/JiC54>Click Here!</a>"""
+<b>JiC54 GROUPS:</b>
+[Request Movies](https://t.me/+dFGzJDTQWow2ZGY8)
+[Request Series](https://t.me/+bCTNQn4-5TtkZmZk)
+[Request Dax Songs](https://t.me/+gTYFpj1ZBIIxZTQ0)
+
+<b>JiC54 BOTS:</b>
+[Movies Bot](http://t.me/JiC54_MOVIES_Bot)
+[Series Bot](http://t.me/JiC54SeriesBot)
+[Filter Bot](http://t.me/JiC54filterBot)
+[File to Links Bot](http://t.me/filestolinks1_bot)"""
+    
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and this bot will respond whenever a keyword is found the message
@@ -90,8 +106,6 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> """
     LOG_TEXT_G = """#NewGroup
