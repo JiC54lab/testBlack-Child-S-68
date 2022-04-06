@@ -108,7 +108,11 @@ This module only works for my admins
     STATUS_TXT = """★ TOTAL FILES <code>{}000</code>
 ★ USED RAM: <code>{}</code> 
 ★ FREE RAM: <code>{}</code>
-★ TOTAL RAM: <code>{} 512MB</code>"""
+★ TOTAL RAM: <code>512MB</code>"""
+     STATUS_TXT2 = """★ TOTAL FILES <code>{}000</code>
+★ USED RAM: <code>{}</code> 
+★ FREE RAM: <code>{}</code>
+★ TOTAL RAM: <code>512MB</code>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
