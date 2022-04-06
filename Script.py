@@ -8,7 +8,7 @@ MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE SERIES. JUST ADD ME TO YOUR
 <b>♣️ LANGUAGE:</b> 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 <b>♣️ DATABASE:</b> 𝙼𝙾𝙽𝙶𝙾
 <b>♣️ BOT SERVER:</b> 𝙷𝙴𝚁𝙾𝙺𝚄
-<b>♣️ 𝙱OT VERSION:</b> <code>4.1.4</code></b>"""
+<b>♣️ 𝙱OT VERSION:</b> <code>5.1.0</code></b>"""
     SOURCE_TXT = """<b>JiC54 CHANNELS:</b> 
     
 [Movies and Series 2022](https://t.me/+H_6j47erCp44YjY0)
