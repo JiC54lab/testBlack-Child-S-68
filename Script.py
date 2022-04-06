@@ -109,8 +109,8 @@ This module only works for my admins
 ★ USED RAM: <code>{}</code> 
 ★ FREE RAM: <code>{}</code>
 ★ TOTAL RAM: <code>512MB</code>
-★ TOTAL CHATS: <code>{}</code><i>You're Not Authorised</i>
-★ TOTAL USERS: <code>{}</code><i>You're Not Authorised</i>"""
+★ TOTAL USERS: <code>{}</code><i>You're Not Authorised</i>
+★ TOTAL CHATS: <code>{}</code><i>You're Not Authorised</i>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
