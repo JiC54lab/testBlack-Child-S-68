@@ -42,7 +42,7 @@ async def save_group(bot, message):
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
-            text=f"<b>Thankyou For Adding Me In {message.chat.title} ❣️\n\nIf you have any questions & doubts about using me contact support.</b>",
+            text=f"<b>Thank you For Adding Me In {message.chat.title} ❣️\n\nIf you have any questions & doubts about using me contact support.</b>",
             reply_markup=reply_markup)
     else:
         if MELCOW_NEW_USERS:
@@ -146,7 +146,7 @@ async def get_ststs(bot, message):
     free = 536870912 - size
     size = get_size(size)
     free = get_size(free)
-    await message.reply(script.STATUS_TXT.format(files, size, free, total_users, totl_chats))
+    await rju.edit(script.STATUS_TXT.format(files, size, free, total_users, totl_chats))
 
 
 # a function for trespassing into others groups, Inspired by a Vazha
