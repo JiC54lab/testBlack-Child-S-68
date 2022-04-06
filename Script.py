@@ -11,24 +11,24 @@ MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE SERIES. JUST ADD ME TO YOUR
 <b>♣️ 𝙱OT VERSION:</b> <code>5.1.0</code></b>"""
     SOURCE_TXT = """<b>JiC54 CHANNELS:</b> 
     
-[Movies and Series 2022](https://t.me/+H_6j47erCp44YjY0)
-[House of Movies](https://t.me/+uQBJ5JaaLpgyMWI0)
-[Dax songs](https://t.me/+EHBqUrMHnglmZWY8)
-[DC Series](https://t.me/+8eC2YwzHZtUwZDg0)
-[Marvel Movies](https://t.me/+GvVfP9p-YAsyMTY0)
-[African Movies](https://t.me/+6QrMOpOVtKAxOGQ0)
-[WWE wrestling](https://t.me/+LhZuWiqE21NiYzY0)
+<a href=https://t.me/+H_6j47erCp44YjY0>Movies and Series 2022</a>
+<a href=https://t.me/+uQBJ5JaaLpgyMWI0>House of Movies</a>
+<a href=https://t.me/+EHBqUrMHnglmZWY8>Dax songs</a>
+<a href=https://t.me/+8eC2YwzHZtUwZDg0>DC Series</a>
+<a href=https://t.me/+GvVfP9p-YAsyMTY0>Marvel Movies</a>
+<a href=https://t.me/+6QrMOpOVtKAxOGQ0>African Movies</a>
+<a href=https://t.me/+LhZuWiqE21NiYzY0>WWE wrestling</a>
 
 <b>JiC54 GROUPS:</b>
-[Request Movies](https://t.me/+dFGzJDTQWow2ZGY8)
-[Request Series](https://t.me/+bCTNQn4-5TtkZmZk)
-[Request Dax Songs](https://t.me/+gTYFpj1ZBIIxZTQ0)
+<a href=https://t.me/+dFGzJDTQWow2ZGY8>Request Movies</a>
+<a href=https://t.me/+bCTNQn4-5TtkZmZk>Request Series</a>
+<a href=https://t.me/+gTYFpj1ZBIIxZTQ0>Request Dax Songs</a>
 
 <b>JiC54 BOTS:</b>
-[Movies Bot](http://t.me/JiC54_MOVIES_Bot)
-[Series Bot](http://t.me/JiC54SeriesBot)
-[Filter Bot](http://t.me/JiC54filterBot)
-[File to Links Bot](http://t.me/filestolinks1_bot)"""
+<a href=http://t.me/JiC54_MOVIES_Bot>Movies Bot</a>
+<a href=http://t.me/JiC54SeriesBot>Series Bot</a>
+<a href=http://t.me/JiC54filterBot>Filter Bot</a>
+<a href=http://t.me/filestolinks1_bot>File to Links Bot</a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
