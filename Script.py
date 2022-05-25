@@ -105,12 +105,12 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ TOTAL FILES <code>{}</code>
+    STATUS_TXT = """★ TOTAL USERS: <code>{}</code>
+★ TOTAL CHATS: <code>{}</code>
+★ TOTAL FILES <code>{}</code>
 ★ USED RAM: <code>{}</code> 
 ★ FREE RAM: <code>{}</code>
-★ TOTAL RAM: <code>512MB</code>
-★ TOTAL USERS: <code>{}</code>
-★ TOTAL CHATS: <code>{}</code>"""
+★ TOTAL RAM: <code>512MB</code>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
