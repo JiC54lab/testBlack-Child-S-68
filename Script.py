@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>HELLO {},
-MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE SERIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍</b>"""
+MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE MOVIES. JUST ADD ME TO YOUR GROUP AND ENJOY!😍</b>"""
     HELP_TXT = """{},
 <b>HERE IS THE HELP FOR MY COMMANDS</b>"""
     ABOUT_TXT = """<b>♠️ MY NAME: {}</b>
@@ -8,7 +8,7 @@ MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE SERIES. JUST ADD ME TO YOUR
 <b>♣️ LANGUAGE:</b> 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 <b>♣️ DATABASE:</b> 𝙼𝙾𝙽𝙶𝙾
 <b>♣️ BOT SERVER:</b> 𝙷𝙴𝚁𝙾𝙺𝚄
-<b>♣️ 𝙱OT VERSION:</b> <code>5.1.0</code></b>"""
+<b>♣️ 𝙱OT VERSION:</b> <code>7.1.3</code></b>"""
     SOURCE_TXT = """<b>JiC54 CHANNELS:</b> 
     
 <a href=https://t.me/+H_6j47erCp44YjY0>Movies and Series 2022</a>
@@ -27,7 +27,6 @@ MY NAME IS <a href=https://t.me/{}>{}</a>, I PROVIDE SERIES. JUST ADD ME TO YOUR
 <b>JiC54 BOTS:</b>
 <a href=http://t.me/JiC54_MOVIES_Bot>Movies Bot</a>
 <a href=http://t.me/JiC54SeriesBot>Series Bot</a>
-<a href=http://t.me/JiC54filterBot>Filter Bot</a>
 <a href=http://t.me/filestolinks1_bot>File to Links Bot</a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
