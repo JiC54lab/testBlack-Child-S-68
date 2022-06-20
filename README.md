@@ -5,4 +5,4 @@
   <b>Series JiC54</b>
 </h1>
 
-https://heroku.com/deploy?template=https://github.com/JiC54/Black-Child-S
+https://heroku.com/deploy?template=https://github.com/JiC54lab/testBlack-Child-S-68
